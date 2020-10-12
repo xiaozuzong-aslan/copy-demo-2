@@ -1,6 +1,3 @@
-87447089lGV!
-87447089!Lgv
-87447089!Lgv
 #创建typescript项目
 yarn create react-app my-app --template typescript  
 
